@@ -1,0 +1,72 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	font-family: "inter", sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+code {
+	font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+.container {
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	padding: 40px 0;
+	background: #2b5876;
+	background: -webkit-linear-gradient(to right, #bbb, #20b898);
+    background: linear-gradient(to right, #bbb, #20b898);
+}
+
+p {
+	margin: 5px 0;
+	font-size: 1.5rem;
+}
+
+.profile {
+	border-radius: 5px;
+}
+
+.login-container {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    height: 70vh;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border-radius: 15px;
+    box-shadow: 0px 28px 72px -8px #000;
+    overflow: hidden;
+}
+
+.login-container::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: url("../../public/containerpic.jpg");
+    background-size: cover;
+    opacity: 0.7;
+    z-index: 1;
+}
+
+.login-container * {
+    position: relative;
+    z-index: 2;
+}
+
+.login-title {
+    opacity: 1;
+}
