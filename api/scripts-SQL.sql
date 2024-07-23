@@ -17,4 +17,4 @@ CREATE TABLE contatos (
 
 ALTER TABLE clientes ALTER COLUMN data_registro SET default (current_date);
 
-ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '297652li@N';
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '';
