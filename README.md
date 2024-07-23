@@ -21,6 +21,12 @@ Este repositório contém um projeto de gestão de Clientes, composto por uma AP
 - **Estrutura**:    
   - api/: Diretório contendo o código-fonte da API.
   - frontend/: Diretório contendo o código-fonte do frontend.
+    
+ 
+## Métodos 
+
+* DB first
+  
 
 ## Aplicabilidade
 
@@ -144,5 +150,7 @@ yarn start
 - recharts
 - styled-components
 
-## Licença
-Este projeto está licenciado sob a licença ISC.
+# Autor
+Raphael Bahr
+
+https://br.linkedin.com/in/raphael-bahr
