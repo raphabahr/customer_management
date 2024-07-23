@@ -107,7 +107,7 @@ yarn start
 
 Navegue até o diretório do frontend:
 ```
-cd ../frontend
+cd frontend
 ```
 
 Instale as dependências:
