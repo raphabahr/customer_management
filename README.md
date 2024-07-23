@@ -1,6 +1,7 @@
 
 # Cadastro de Clientes e Contatos
 
+
 Este repositório contém um projeto de gestão de Clientes, composto por uma API criada em Node.js e um frontend desenvolvido em React.
 
 ## Tecnologias Utilizadas e Estrutura do Projeto
@@ -77,6 +78,16 @@ Este repositório contém um projeto de gestão de Clientes, composto por uma AP
   - Rota: aapi/routes/contatos/id_contato
   - Função: Exclui o contato com o ID especificado
     
+
+    
+
+
+## Banco de dados
+
+**Execute o arquivo scripts-SQL.sql que está dentro da pasta API para criar as tabelas no Banco de dados.**
+
+
+
     
 ## Como Executar Localmente
 
@@ -87,7 +98,6 @@ Este repositório contém um projeto de gestão de Clientes, composto por uma AP
 git clone https://github.com/raphabahr/customer_management
 ```
 
-* Execute no banco de dados o arquivo scripts-SQL.sql
 
 **Configuração da API**
 
