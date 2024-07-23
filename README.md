@@ -1,7 +1,7 @@
 
 # Cadastro de Clientes e Contatos
 
-Este repositório contém um projeto de gestão de livros, composto por uma API criada em Node.js e um frontend desenvolvido em React.
+Este repositório contém um projeto de gestão de Clientes, composto por uma API criada em Node.js e um frontend desenvolvido em React.
 
 ## Tecnologias Utilizadas e Estrutura do Projeto
 
