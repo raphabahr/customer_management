@@ -99,7 +99,7 @@ Inicie a API:
 yarn start
 ```
 
- - Rode o projeto em: https://localhost:8800/
+ - Rode a API em: https://localhost:8800/
    
 
 **Configuração do Frontend**
@@ -120,7 +120,7 @@ Inicie o servidor de desenvolvimento:
 yarn start
 ```
 
- - Rode o projeto em: https://localhost:3000/
+ - Rode o Front em: https://localhost:3000/
    
 
 ## Dependências
