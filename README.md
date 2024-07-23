@@ -89,6 +89,8 @@ git clone https://github.com/raphabahr/customer_management
 
 **Configuração da API**
 
+Execute no banco de dados o arquivo scripts-SQL.sql
+
 
 Navegue até o diretório da API: 
 ```
