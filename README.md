@@ -87,9 +87,9 @@ Este repositório contém um projeto de gestão de Clientes, composto por uma AP
 git clone https://github.com/raphabahr/customer_management
 ```
 
-**Configuração da API**
+* Execute no banco de dados o arquivo scripts-SQL.sql
 
-Execute no banco de dados o arquivo scripts-SQL.sql
+**Configuração da API**
 
 
 Navegue até o diretório da API: 
